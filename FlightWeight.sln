@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightWeight", "FlightWeight\FlightWeight.csproj", "{54B75B02-0E7F-405A-B914-BE916ABBBD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B75B02-0E7F-405A-B914-BE916ABBBD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B75B02-0E7F-405A-B914-BE916ABBBD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B75B02-0E7F-405A-B914-BE916ABBBD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B75B02-0E7F-405A-B914-BE916ABBBD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACE8EB8A-5E4A-4F7A-A23B-B5C03634A139}
+	EndGlobalSection
+EndGlobal
